@@ -1,12 +1,12 @@
 ------------------------------------------------------------------------
-This is the project README file. Here, you should describe your project.
-Tell the reader (someone who does not know anything about this project)
-all they need to know. The comments should usually include at least:
+in this game you control donkey kong that moves around collecting as
+many bananas as you can carry while avoiding the barrels at all costs. 
+here you will need excellent evasive skills and fast reation times to 
+become the best banana thief!
 ------------------------------------------------------------------------
 
-PROJECT TITLE:
-PURPOSE OF PROJECT:
-VERSION or DATE:
-HOW TO START THIS PROJECT:
-AUTHORS:
+PROJECT TITLE: Donkey Kong Bananza 
+PURPOSE OF PROJECT: demonstrating programming skills and understanding of game design
+VERSION or DATE: 25/05/023
+AUTHORS: Euan Mcginness and Luke Lindsay 
 USER INSTRUCTIONS:
