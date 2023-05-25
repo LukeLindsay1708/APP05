@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Characters
+comment1.params=
+comment1.target=void\ move()
+comment1.text=\r\n\ Move\ forward\ DK\ Charecter.\r\n
+comment2.params=
+comment2.target=boolean\ atWorldEdge()
+comment2.text=\r\n\ This\ makes\ the\ DK\ barrel\ spin\ and\ bounce\ of\ the\ edges\ of\ the\ 'world'.\r\n
+comment3.params=anyClass
+comment3.target=greenfoot.Actor\ canSee(java.lang.Class)
+comment3.text=\r\n\ Return\ true\ if\ we\ can\ see\ an\ object\ of\ class\ 'clss'\ right\ where\ we\ are.\ \r\n\ False\ if\ there\ is\ no\ such\ object\ here.\r\n
+comment4.params=foodClass
+comment4.target=boolean\ eat(java.lang.Class)
+comment4.text=\r\n\ DK\ to\ eat\ an\ banana\ of\ class\ 'class'.\ This\ is\ only\ successful\ if\ there\r\n\ is\ such\ an\ object\ where\ we\ currently\ are.\r\n
+numComments=5

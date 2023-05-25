@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=Kong
+comment1.params=
+comment1.target=Kong()
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ This\ method\ allows\ the\ user\ to\ move\ DK\ so\ that\ when\r\n\ it\ eats\ a\ banana,\ DK\ gets\ a\ higher\ score.\ (the\ bigger\ the\r\n\ bunch\ of\ bananan\ the\ more\ the\ score\ is\ to\ increase.\r\n
+comment3.params=
+comment3.target=void\ turnAndMove()
+comment3.text=\r\n\ This\ method\ rotates\ the\ DK\ avatar\ a\ small\ amount\ to\ the\r\n\ left\ or\ to\ the\ right,\ and\ then\ he\ moves\ in\ that\r\n\ direction\r\n
+comment4.params=
+comment4.target=void\ move4Ways()
+comment4.text=\r\n\ This\ method\ moves\ the\ DK\ around\ in\ four\ directions\r\n\ left,\ right,\ up\ and\ down\ using\ coordinate\ positions.\ \r\n\ It\ must\ not\ move\ off\ the\ screen.\r\n
+numComments=5
